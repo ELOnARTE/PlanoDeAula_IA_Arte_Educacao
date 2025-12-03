@@ -1,5 +1,8 @@
-# 🤖 Plano de Aula Interativo com Ecossistema IA: 
+# 🤖 Plano de Aula Interativo com Ecossistema IA:
+
 ## A Arte Cidadã na Era Digital
+
+---
 
 ## 📄 Descrição do Desafio
 
@@ -93,5 +96,7 @@ A avaliação foca no uso crítico da IA e na compreensão do tema, e não apena
 ---
 
 > **Autor:** Leonardo Frossard Alves - @eonarte
+
 > **Data de Conclusão:** 10 de dezembro de 2025
+
 > **Status:** Concluído (Entregue no GitHub)
