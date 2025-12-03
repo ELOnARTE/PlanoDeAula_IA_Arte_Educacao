@@ -1,4 +1,5 @@
-# 🤖 Plano de Aula Interativo com Ecossistema IA: A Arte Cidadã na Era Digital
+# 🤖 Plano de Aula Interativo com Ecossistema IA: 
+## A Arte Cidadã na Era Digital
 
 ## 📄 Descrição do Desafio
 
